@@ -1,6 +1,6 @@
 import numpy as np
-from src.classes.body import Body
-from src.classes.simulation import Simulation
+from classes.body import Body
+from classes.simulation import Simulation
 
 
 # erratic orbits that result in one body off-screen and two bodies in stable binary system that also moves off screen
